@@ -1,0 +1,11 @@
+.UserOutput {
+    display: inline-block;
+    width: 30%;
+    margin: 16px 5px;
+    border: 1px solid black;
+    box-shadow: 0 2px 3px #cccccc;
+}
+
+.UserOutput p {
+    margin: 5px;
+}
